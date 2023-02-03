@@ -25,9 +25,9 @@ https://github.com/Dlloydev/jtag2updi
 
 <br>
 
-### Developed and compiled with vsCode and Python
-https://code.visualstudio.com/  
-https://www.python.org/
+### Python Script Developed with vsCode
+https://www.python.org/  
+https://code.visualstudio.com/
 
 <br>
 
